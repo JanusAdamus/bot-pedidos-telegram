@@ -1,0 +1,4 @@
+__pycache__/
+pedidos.csv
+.venv/
+.env
